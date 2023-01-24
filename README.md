@@ -1,13 +1,14 @@
-# Rubix-23-50-The-Coding-Crew
-Social Cause: Problem Statement 3
-This is a website intended to be a safe space for all individuals regardless of their gender, sexuality, race, caste and color.
-This website consists of the following features-
-Keeps track of the user's mental health and reward them if they complete it with encouraging words which will motivate them.
-It has a activity page for our clients which has soothing contents such as music,meditation and a range of books to choose from to imporve mental health.
-It also has commmunity page for the users to intereact with people with similar mindsets/issues.it has our own custom discord server.
-It has a page for taking appointments of our specialised counsellors and therapists.
-it has a page for communicating with us ,we will recieve a mail of their query by using SMTP.
+# A-Safe-Place
 
+## Designed an application/website with the following functionalities
 
+1. Track down the user’s mental state using their own data and notify them of their mental well being. Provide analysis of subsequent behavior.
+2. Suggest activities to improve mental health and keep a track of the completion of those activities.
+3. Encouraging words/ rewards to the users on achieving a particular milestone also influences them positively.
+4. A provision for the user to join various communities/support groups to chat and share their experience with like minded people.
+5. Suggest a therapist based on their expertise in the field.
 
-
+## Tools and Technologies Used
+1. HTML, CSS & JavaScript - Web Development
+2. SMTP - Receive users' enquiry email
+3. Git/GitHub - Version Control
